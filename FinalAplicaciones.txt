@@ -37,5 +37,3 @@ class ChessGame(tk.Tk):
                 
 
     
-chess_game = ChessGame()
-chess_game.mainloop()
